@@ -3,6 +3,7 @@
  CS Student at BITS Pilani (2027)  
  Backend Developer | AI Builder | Quant Enthusiast  
  Building AI Assistants, Trading Systems & ML Projects  
+ Hackathon Winner
 
 ---
 
