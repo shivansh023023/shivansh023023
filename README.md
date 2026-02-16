@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi 👋, I'm Shivansh Singh
 
-<!--
-**shivansh023023/shivansh023023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ CS Student at BITS Pilani (2027)  
+ Backend Developer | AI Builder | Quant Enthusiast  
+ Building AI Assistants, Trading Systems & ML Projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Current Focus
+- Algorithmic Trading
+- LLM Engineering
+- Backend Development
+
+---
+
+## 🛠️ Tech Stack
+
+💻 Languages:
+Python | Java | Go | SQL | JavaScript  
+
+⚙️ Tools:
+Node.js | MongoDB | Git | Docker | Linux  
+
+🤖 AI/ML:
+TensorFlow | Scikit-learn | NLP | LLMs  
+
+---
+
+## 🚀 Featured Projects
+
+- 🤖 AI Personal Assistant (JARVIS)
+- 📈 Algorithmic Trading Bot
+- 🎬 Movie Recommendation System
+- 🚗 Driver Drowsiness Detection Model
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=shivansh023023&show_icons=true&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivansh023023&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/shivansh-singh-4597a8306/
+Email: singhshivansh023@gmail.com
+
+## Other platforms
+https://leetcode.com/u/Shivansh_2309/
