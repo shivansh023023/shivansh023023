@@ -46,7 +46,7 @@ TensorFlow | Scikit-learn | NLP | LLMs
 
 ## 🌐 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/shivansh-singh-4597a8306/
+LinkedIn: https://www.linkedin.com/in/shivanshsingh23/
 Email: singhshivansh023@gmail.com
 
 ## Other platforms
