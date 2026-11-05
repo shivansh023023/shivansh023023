@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="142" viewBox="0 0 1200 142" role="img" aria-labelledby="title">
+<title id="title">Shivansh Singh — engineering focus and open-source interests</title>
+<rect width="1200" height="142" rx="14" fill="#f4f6f5"/>
+<rect x="2" y="2" width="1196" height="138" rx="12" fill="#ffffff" stroke="#cbd6d0" stroke-width="2"/>
+<circle cx="32" cy="31" r="5" fill="#19c37d"/>
+<text x="50" y="35" fill="#617168" font-family="monospace" font-size="12" letter-spacing="2">OPEN SOURCE</text>
+<text x="32" y="82" fill="#17231e" font-family="monospace" font-size="21" font-weight="700">HPX  ·  API DASH  ·  SBI</text>
+<text x="32" y="111" fill="#286ca5" font-family="monospace" font-size="10" letter-spacing="2">CONTRIBUTING</text>
+<path d="M392 22V120" stroke="#cbd6d0" stroke-width="1"/>
+<circle cx="424" cy="31" r="5" fill="#19c37d"/>
+<text x="442" y="35" fill="#617168" font-family="monospace" font-size="12" letter-spacing="2">ENGINEERING</text>
+<text x="424" y="82" fill="#17231e" font-family="monospace" font-size="21" font-weight="700">AI / ML  ·  SYSTEMS  ·  BACKEND</text>
+<text x="424" y="111" fill="#286ca5" font-family="monospace" font-size="10" letter-spacing="2">BUILDING</text>
+<path d="M784 22V120" stroke="#cbd6d0" stroke-width="1"/>
+<circle cx="816" cy="31" r="5" fill="#19c37d"/>
+<text x="834" y="35" fill="#617168" font-family="monospace" font-size="12" letter-spacing="2">TOOLKIT</text>
+<text x="816" y="82" fill="#17231e" font-family="monospace" font-size="21" font-weight="700">C++  ·  PYTHON  ·  LINUX  ·  CUDA</text>
+<text x="816" y="111" fill="#286ca5" font-family="monospace" font-size="10" letter-spacing="2">EXPLORING</text>
+</svg>
