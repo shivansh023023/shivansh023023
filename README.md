@@ -6,6 +6,9 @@
  Hackathon Winner.
 
 ---
+<p align="center">
+  <img src="./assets/all-might.gif" width="450" alt="All Might">
+</p>
 
 ## 🔥 Current Focus
 - Algorithmic Trading
