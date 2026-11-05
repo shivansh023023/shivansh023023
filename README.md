@@ -15,7 +15,12 @@
 
 <!-- ALL MIGHT -->
 <p align="center">
-  <img src="./assets/all-might.gif" width="750" alt="All Might">
+  <img
+    src="./assets/all-might.gif"
+    width="750"
+    alt="All Might"
+    style="border: 1px solid #34413d; border-radius: 8px;"
+  >
 </p>
 
 <!-- CONTRIBUTION SNAKE -->
