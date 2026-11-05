@@ -1,30 +1,37 @@
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-system-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-system-light.svg">
-  <img width="100%" alt="Shivansh Singh — AI and Systems Engineer" src="./assets/profile-system-light.svg">
+
+<!-- ANIMATED PROFILE CARD -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/profile-system-dark.gif">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/profile-system-light.gif">
+  <img
+    width="100%"
+    src="./assets/profile-system-dark.gif"
+    alt="Shivansh Singh — AI and Systems Engineer">
 </picture>
 
-<p align="center">
-  <b>Building intelligent systems. Exploring low-level engineering. Contributing to open source.</b>
-</p>
-
+<!-- ALL MIGHT -->
 <p align="center">
   <img src="./assets/all-might.gif" width="420" alt="All Might">
 </p>
 
+<!-- CONTRIBUTION SNAKE -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/proof-strip-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/proof-strip-light.svg">
-  <img width="100%" alt="Open source, engineering focus, and technical toolkit" src="./assets/proof-strip-light.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/shivansh023023/shivansh023023/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/shivansh023023/shivansh023023/output/github-contribution-grid-snake.svg">
+  <img
+    width="100%"
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/shivansh023023/shivansh023023/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivansh023023/shivansh023023/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivansh023023/shivansh023023/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/shivansh023023/shivansh023023/output/github-contribution-grid-snake.svg">
-</picture>
 
 ## `01` // CURRENT FOCUS
 
